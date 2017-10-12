@@ -1,3 +1,6 @@
+# NOTES
+Since the original project is written in Python 2.7 which is EOL [soon](https://www.python.org/dev/peps/pep-0373/#id2), this fork aims to port the scripts to Python 3.5. Upon completion of transition I will make a PR to upstream.
+
 # Avoidance paper supplementary files.
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
@@ -27,3 +30,4 @@ Paul P. Gardner paul.gardner@canterbury.ac.nz, ppgardner@gmail.com
 
 #### Citiation:
 https://elifesciences.org/content/5/e13479
+
